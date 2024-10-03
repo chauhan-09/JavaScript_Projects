@@ -1,0 +1,38 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    font-family: 'calibri',sans-serif;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.container{
+    background-color: white;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 5px;
+    flex:0 0 90%;
+}
+
+.btn{
+    background-color: white;
+    padding: 5px;
+    border-radius: 0.5rem;
+    border-color: brown;
+}
+
+.btn:hover{
+    background-color: greenyellow;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    padding: 1%;
+
+}

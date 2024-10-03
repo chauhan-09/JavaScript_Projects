@@ -1,0 +1,38 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('img.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.container{
+    text-align: center;
+    font-size: 30px;
+    padding: 5%;
+    border: 2px solid white;
+    box-shadow: 3px 3px 10px 10px white;
+    flex: 0 0 30%;
+}
+
+.num{
+    font-size: 70px;
+}
+
+.btn{
+      background-color: white;
+      padding: 15px 30px;   
+      border-radius: 0.5rem;
+      border: 0.5px solid brown;
+      
+}
+
+.btn:hover{
+    background-color: tan;
+}
+
+

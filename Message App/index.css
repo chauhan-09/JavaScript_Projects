@@ -1,0 +1,54 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    font-family: 'calibri',sans-serif;
+    font-weight: 400;
+}
+
+.container{    
+     
+    text-align: center;
+    background-color: white;
+    padding: 3rem;
+    border-radius: 7px;
+    flex:0 0 80%;
+    margin: 1rem;
+
+}
+
+.msg{
+    background-color: white;
+    border-color: black;
+    height: 5%;
+    width: 80%;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+
+.msg2{
+    height: 5%;
+    width: 80%;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+
+.btn{
+    display: block;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+    background-color: white;
+    padding: 10px;
+    border-color: brown;
+}
+
+.btn:hover{
+    background-color: yellow;
+}
+
+
+
