@@ -1,0 +1,41 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+}
+#screen {
+    width: 102%;
+    height: 50px;
+    font-size: 24px;
+    text-align: right;
+    margin-bottom: 5px;
+}
+
+.btn, .btn_equal, .btn_clear {
+    width: 70px;
+    height: 50px;
+    font-size: 24px;
+    margin: 5px;
+}
+
+.btn{
+    background-color: yellow;
+}
+
+.btn_equal {
+    background-color: green;
+    color: white;
+}
+
+.btn_clear {
+    background-color: red;
+    color: white;
+}
+
+.calculator {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 320px;
+}
