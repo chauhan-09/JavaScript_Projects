@@ -25,7 +25,7 @@ btn_clear.addEventListener('click',function()
     screen.value = "";
 })
 
-//This is a demo for Github
+
 
 
 
