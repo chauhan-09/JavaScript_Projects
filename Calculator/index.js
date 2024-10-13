@@ -25,6 +25,7 @@ btn_clear.addEventListener('click',function()
     screen.value = "";
 })
 
-//Calculator Project
+//This is a demo for Github
+
 
 
