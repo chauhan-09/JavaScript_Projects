@@ -25,3 +25,4 @@ function showTime()
 
 showTime();
 setInterval(showTime,1000);
+//Made a clock bro!
