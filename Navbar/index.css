@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar_header{
+    background: grey;
+    border-bottom: 5px solid green;
+    padding: 0.5rem 0.5rem;
+}
+
+.navbar_logo{
+    height: 70px;
+    width: 70px;
+}
